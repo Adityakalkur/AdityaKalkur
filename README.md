@@ -1,4 +1,4 @@
-# 💫 About Me:
+    # 💫 About Me:
 <br><br>👋 Hi, I'm Aditya Kalkur!<br>🔹 Aspiring AI & ML Engineer | Passionate about Machine Learning, Web Development, and IoT<br><br>💡 I enjoy building intelligent systems and working on real-world AI applications. My experience includes:<br>✅ Developing AI-driven projects, including an Intelligent Face Generation System for forensics<br>✅ Creating ML-powered career guidance systems and gesture-recognition AI in hackathons<br>✅ Working with OpenCV, TensorFlow, Flask, scikit-learn, and other AI/ML frameworks<br><br>🌱 Currently learning:<br>🔹 Advanced AI techniques<br>🔹 Building Predictive Analytics Systems<br>🔹 Enhancing my skills in MERN stack <br><br>🔗 Let's connect and innovate together!<br>📫 Reach me at aduk2003@gmail.com 
 
 
@@ -22,3 +22,8 @@
 [![](https://visitcount.itsvg.in/api?id=AdityaKalkur&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>  
