@@ -81,6 +81,10 @@
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aditya_kalkur?theme=dark&font=Roboto&ext=heatmap)
+
+---
+
 ## 🧾 Education
 🎓 **B.Tech in Artificial Intelligence & Machine Learning**  
 📍 KSIT (Visvesvaraya Technological University)  
