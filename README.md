@@ -1,109 +1,101 @@
-# 👋 Hey, I'm Aditya Kalkur
-### Data Analytics Professional | Turning Data into Decisions
+<h1 align="center">👋 Hey, I'm Aditya Kalkur</h1>
+
+<h3 align="center">Data Analytics Professional | Turning Data into Decisions</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adityakalkur/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aduk2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Adityakalkur">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 💡 About Me
-🔹 Passionate about **Data Analytics, Business Intelligence, and AI-driven insights**
-🔹 Experienced in **SQL Analytics**, **Python-based EDA**, and **Power BI Dashboards**
-🔹 I love turning raw data into narratives that drive **real business decisions** 📊
+## 💡 About Me
 
-🌱 **Currently learning:**
-- **Exploratory Data Analysis & Storytelling**
-- **Predictive Analytics & Forecasting**
-- **Advanced SQL & Business Intelligence**
+Dedicated Data Analytics professional with hands-on experience building 
+end-to-end projects — from cleaning million-row datasets to building 
+predictive models, statistical tests, and interactive dashboards.
 
-📫 Reach me at: **[aduk2003@gmail.com](mailto:aduk2003@gmail.com)**
-🔗 Portfolio projects below 👇
+- 🔍 I turn messy, complex data into clear business decisions
+- 📊 Experienced in SQL, Python, Scikit-learn, Power BI, and Tableau
+- 🧪 I validate findings statistically — not just visually
+- 🚀 Currently open to **Data Analyst** roles in Bangalore
 
 ---
 
 ## 🧠 Technical Skills
 
-| Domain | Tools / Technologies |
-|--------|----------------------|
-| **Data Analytics** | KPI Analysis, Trend Analysis, Descriptive Statistics, Forecasting |
-| **Programming** | Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) |
-| **Data Visualization** | Power BI, Matplotlib, Seaborn, Excel |
-| **Databases & SQL** | MySQL, Complex JOINs, CTEs, GROUP BY, Subqueries, Aggregations |
-| **Machine Learning** | Regression, Classification, NLP Basics, OpenCV, Hugging Face |
-| **Tools & Platforms** | Git, GitHub, VS Code, Jupyter Notebook |
-| **Soft Skills** | Data Storytelling, Stakeholder Communication, Analytical Problem Solving |
-
----
-
-## 💼 Experience
-**Trainee Intern – Posspole Pvt Ltd (Feb 2025 – Aug 2025)**
-- 🧠 Built and deployed an **AI-powered chatbot** for the Energy website → boosted user engagement by **40%**
-- 🎯 Developed **anomaly detection and classification ML models** → improved system accuracy by **65%**
-- 💻 Migrated the proctoring model from Python to MERN → enhanced scalability and reduced latency by **50%**
+| Domain | Tools & Technologies |
+|---|---|
+| **SQL** | Complex JOINs, CTEs, Window Functions (LAG, RANK, SUM OVER), GROUP BY, Subqueries |
+| **Programming** | Python — Pandas, NumPy, Scikit-learn, Scipy, Matplotlib, Seaborn |
+| **Data Visualisation** | Power BI, Tableau, Matplotlib, Seaborn, Excel |
+| **Machine Learning** | Regression, Classification, Time Series Forecasting, NLP basics |
+| **Statistics** | Hypothesis Testing (t-test, Chi-square), A/B Testing, IQR Outlier Detection |
+| **Analytics** | KPI Analysis, Cohort Retention, RFM Segmentation, Forecasting |
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebook, DB Browser for SQLite |
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-  <summary><b>📉 Employee Attrition EDA — HR Analytics</b></summary>
-  <br>
+### 📦 [E-Commerce Business Performance Analysis](https://github.com/Adityakalkur/E-Commerce-Business-Performance-Analysis)
+> Python · Pandas · Scikit-learn · Scipy · Matplotlib · Seaborn
 
-  **Business Question:** *"Which employees are most at risk of leaving, and what can the company do about it?"*
+End-to-end analysis of 1M+ row UK retail dataset covering data cleaning, 
+business KPI reporting, statistical hypothesis testing, and revenue forecasting.
 
-  ➤ Performed end-to-end EDA on the IBM HR Analytics dataset (1,470 employees, 35 features)
-  ➤ Identified **4 key attrition drivers**: job satisfaction, overtime, income, and tenure
-  ➤ Employees working overtime leave at **3x the rate** of those who don't (30.5% vs 10.4%)
-  ➤ Delivered actionable HR recommendations backed by data findings
-  ➤ Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
-
-  🔗 [Project Repo](https://github.com/Adityakalkur/Employee-Attrition-EDA)
-</details>
-
-<details>
-  <summary><b>📊 Customer Demographics Descriptive Analysis</b></summary>
-  <br>
-
-  ➤ Analyzed KPMG customer demographic data to extract insights on age, income, and buying behavior
-  ➤ Performed descriptive statistics and data summarization using Python (Pandas, NumPy)
-  ➤ Developed interactive **Power BI dashboard** with drill-down capabilities
-  ➤ Visualized customer segments by **age group**, **wealth quintiles**, and **purchasing patterns**
-  ➤ Tools: Python, Pandas, Power BI
-
-  🔗 [Project Repo](https://github.com/Adityakalkur/Customer-Demographics-Analysis)
-</details>
-
-<details>
-  <summary><b>🕌 Temple Booking & Management System</b></summary>
-  <br>
-
-  ➤ Designed a normalized SQL schema to manage bookings and resource allocation
-  ➤ Crafted JOIN + GROUP BY queries to analyze **peak booking patterns** and time-slot utilization
-  ➤ Created automated SQL reports improving capacity utilization by **45%**
-  ➤ Tools: MySQL, SQL Aggregations, Reporting
-
-  🔗 [Project Repo](https://github.com/Adityakalkur)
-</details>
-
-<details>
-  <summary><b>🧬 Face Recognition Automated Attendance System</b></summary>
-  <br>
-
-  ➤ Built a face recognition system with anti-spoofing and real-time verification
-  ➤ Achieved **95% authentication accuracy** using cosine similarity thresholds
-  ➤ Built a real-time video processing pipeline at 30 FPS using OpenCV
-  ➤ Tools: Python, OpenCV, Machine Learning
-
-  🔗 [Project Repo](https://github.com/Adityakalkur)
-</details>
+- Cleaned 1,067,371 rows — resolved 243k missing IDs, capped outliers with IQR, removed duplicates
+- Built cohort retention heatmap and RFM segmentation — identified **£2,449,807 revenue at risk**
+- Validated 3 hypotheses with t-tests and chi-square — confirmed **51.7% Q4 uplift (p=0.001)**
+- Linear Regression forecast achieved **21.2% MAPE** with 6-month forward projection
 
 ---
 
-## 🧾 Education
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**
-📍 KSIT (Visvesvaraya Technological University)
-📅 *Dec 2021 – Aug 2025* | GPA: 3.0
+### 📉 [Employee Attrition EDA](https://github.com/Adityakalkur/Employee_Attrition_Analysis)
+> Python · Pandas · Matplotlib · Seaborn
+
+End-to-end exploratory analysis on IBM HR Analytics dataset (1,470 employees).
+
+- Identified overtime as the strongest attrition signal — **3x higher attrition rate** (30.5% vs 10.4%)
+- Delivered structured business recommendations on salary benchmarking and retention programmes
+
+---
+
+### 👥 [Customer Demographics Descriptive Analysis](https://github.com/Adityakalkur/Customer-Demographics-Analysis)
+> Python · Pandas · NumPy · Power BI
+
+Analysed KPMG customer demographic data to extract insights on age, income, and buying behaviour.
+
+- Built interactive Power BI dashboard with drill-down by age group, wealth quintiles, and purchasing patterns
+
+---
+
+## 💼 Experience
+
+**Trainee Intern — Posspole Pvt. Ltd.** *(Feb 2025 – Aug 2025)*
+
+- 🤖 Built an AI-powered chatbot for the Energy website → **+40% user engagement**
+- 🎯 Developed anomaly detection and classification ML models → **+65% system accuracy**
+- 💻 Migrated proctoring model from Python to MERN stack → **-50% latency**
+
+---
+
+## 🎓 Education
+
+**B.Tech. in Artificial Intelligence & Machine Learning**
+KSIT — Visvesvaraya Technological University | 2025 | GPA: 3.0
 
 ---
 
 ## 📜 Certifications
+
 - 🏅 Advanced SQL — DataCamp
 - 📊 Data Visualization in Power BI — DataCamp
 - 🐍 Complete Python Bootcamp — Udemy
@@ -111,33 +103,37 @@
 ---
 
 ## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scipy](https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AdityaKalkur&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKalkur&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKalkur&theme=tokyonight&hide_border=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityakalkur&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakalkur&layout=compact&theme=default&hide_border=true" width="40%"/>
+</p>
 
 ---
 
 ## 🧩 Quote
+
 > *"Data is just noise until you ask it the right question."*
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakalkur)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Adityakalkur)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aduk2003@gmail.com)
-
----
-[![](https://visitcount.itsvg.in/api?id=AdityaKalkur&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://www.linkedin.com/in/adityakalkur/">LinkedIn</a> •
+  <a href="mailto:aduk2003@gmail.com">Email</a> •
+  <a href="https://github.com/Adityakalkur">GitHub</a>
+</p>
